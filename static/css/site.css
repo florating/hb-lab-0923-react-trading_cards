@@ -18,6 +18,11 @@ div.card {
 body {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
+
 img {
   height: 7em;
+}
+
+#balloonicorn-homepage {
+  height: 200px;
 }
